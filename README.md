@@ -20,8 +20,6 @@ This project is a **E-Commerce** developed using React Js. The app is designed t
 - **Filter :** A user-friendly dashboard providing the filter to filter out the products.
 - **Products Profiles:** Detailed products profiles with suggestion, price, and add-to-cart.
 - **Add to Cart:** Product added to cart and shown to cart for placing the order.
-- **Appointment Management:** Screens to view, schedule, reschedule, or cancel appointments.
-- **Settings Page:** Customizable settings for profile management, notifications, and privacy.
 
 
 ## 🎨 Design Principles
